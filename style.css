@@ -1,0 +1,4 @@
+body {
+    background: url('background-gradient.png') repeat center center fixed; 
+    background-size: contain;
+}
